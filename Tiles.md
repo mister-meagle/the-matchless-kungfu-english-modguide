@@ -1,7 +1,7 @@
 ## Create a copy of the 1x1 or 2x2 template:
 ![image](https://github.com/mister-meagle/the-matchless-kungfu-english-modguide/assets/151403205/31b58dae-90f3-47b4-8767-a4cf0f9d6826)
 
-## Rename the three copied files to your NewMapName, NewMapName_Save, and NewMapName_Save:
+## Rename the three copied files to your NewMapName, NewMapName_Edit, and NewMapName_Save:
 ![image](https://github.com/mister-meagle/the-matchless-kungfu-english-modguide/assets/151403205/7e693260-afc0-44c1-aef2-1b64bcc68d8b)
 
 ## Double click your new map, set the VoxelWorld save to your new _Save file, and remove the template edit level, replacing it with your new one:
